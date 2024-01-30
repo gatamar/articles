@@ -12,6 +12,7 @@ Notes/links/insights:
 + AWS AppComposer - looks like I like it very much
 + [the frugal architect checklist](http://thefrugalarchitect.com/)
 + CodeWhisperer + VS Studio integration (OR Github copilot which is not AWS 😃). Looks like CW doesn't have Xcode support, but maybe some AI tool does already?
++ I've understood the concept of LLVM "agents" which first saw [here](https://github.com/buhe/langchain-swift), but which were not explained [here](https://www.goodreads.com/book/show/198671257-langchain-crash-course)
 + https://blog.clearscale.com/aws-step-functions-vs-aws-lambda/
 + https://github.com/aws/amazon-sagemaker-examples
 + https://awsug.nl/events/
